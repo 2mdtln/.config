@@ -8,6 +8,8 @@ option_as_alt = "Both"
 [font]
 size = 13.0
 
+# mac:  brew install --cask font-jetbrains-mono-nerd-font
+# arch: sudo pacman -S ttf-jetbrains-mono-nerd
 [font.normal]
 family = "JetBrainsMono Nerd Font"
 style = "Regular"

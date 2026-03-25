@@ -484,9 +484,15 @@
     // ── ft_utils ─────────────────────────────
     "ft_utils.email": "mtaheri@student.42istanbul.com.tr",
     "ft_utils.login": "mtaheri",
+    // ── AI         ───────────────────────────
+    "chat.disableAIFeatures": true,
     // ── Extensions ───────────────────────────
     "vscord.app.name": "VSCodium",
     "vscord.app.privacyMode.enable": true,
     "vscord.status.idle.check": false,
-    "vscord.status.idle.enabled": false
+    "vscord.status.idle.enabled": false,
+    "python.terminal.activateEnvironment": false,
+    "python.terminal.activateEnvInCurrentTerminal": false,
+    "python.venvPath": "",
+    "python.venvFolders": []
 }
